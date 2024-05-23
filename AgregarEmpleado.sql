@@ -1,0 +1,1 @@
+call AgregarEmpleado(100, 53959240, 'pepito',100);
